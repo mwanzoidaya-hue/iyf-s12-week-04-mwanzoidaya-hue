@@ -2,7 +2,7 @@
 
 ## Author
 - **Name:** Eunice Mwanzo Idaya
-- **GitHub:** [@Idayaidaya-hue](https://github.com/Idayaidaya-hue)
+- **GitHub:** [@mwanzoidaya-hue](https://github.com/mwanzoidaya-hue)
 - **Date:** November 9, 2026
 
 ## Project Description

@@ -38,5 +38,5 @@ My first real programming week. I practised variables, operators, functions, con
 - `getTopStudent` returns a whole student object, so I print `.name` to see "Alice" in the console.
 - Dividing or taking the modulus by zero must not crash, so both return an error message.
 
-## Screenshots (optional)
+## Screenshots 
 Not included.
